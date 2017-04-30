@@ -1,1 +1,1 @@
-# ksp_physics
+# The physics of Kerbal Space Program
